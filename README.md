@@ -1,4 +1,4 @@
 # Chatroom
-Quatro salas de bate papo em tempo real
+Four real-time chatrooms.
 <br>
 https://sirfaria.github.io/Chatroom/
